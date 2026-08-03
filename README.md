@@ -1,4 +1,4 @@
 # tili-boli
 Minimalist constructed language
 
-Этот проект выпускается под CC0. В странах, где Public Domain не признаётся, разрешены любые действия без каких-либо обязательств, включая коммерческое использование, модификацию и распространение без указания авторства.
+This project is dedicated to the public domain under the terms of CC0. In countries where this is not legally possible, the work is granted under a license that permits any use, modification, distribution, and commercial exploitation, without any requirement for attribution.
