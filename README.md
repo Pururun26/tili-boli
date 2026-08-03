@@ -5,4 +5,5 @@ This project is dedicated to the public domain under the terms of CC0. In countr
 
 ---
 v0.3
+
 Готов на 33%
